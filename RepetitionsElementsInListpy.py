@@ -4,7 +4,7 @@ print("""
 Application that returns the number of repetitions of elements in the list.
 *Enter as many values ​​as you want to prepare a dictionary in the program.
 *The moment you press the 'q', it will give you feedback as it has reached its purpose.
-                                                                   *** by İLHAN ÖDÜN***
+                                                                   *** by İLHAN ÖDÜN ***
 ************************************************************************
 """)
 yourlist = []
